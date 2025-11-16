@@ -13,8 +13,7 @@ City of Calgary Open Data Portal – parks, pathway networks, ArcGIS Online - ro
 ## Coordinate System  
 Mercator (World) Projection 
 ## Folders  
-- `data/` → Shapefiles
-- metadata/ --> Links to raster data, and open data  
+- `data/` → Shapefiles, links to raster data and open data  
 - `Layouts/` → maps or figures  
 ## License  
 This project is licensed under the **Creative Commons Attribution (CC BY 4.0)** license.  
