@@ -4,18 +4,18 @@ Assessing Equitable Access to Green Space and Tree Canopy Cover in Calgary from 
 This project examines how access to green spaces and tree canopy cover vary between Calgary communities.  
 The goal is to determine whether higher-income neighbourhoods have more equitable access to parks and tree canopy coverage than lower-income neighbourhoods.  
 ## Data Sources  
-City of Calgary Open Data Portal – parks, pathway networks, tree canopy, ArcGIS Online;  
-Statistics Canada – census tracts, demographic data (Median Household before-tax income in 2020)  
+City of Calgary Open Data Portal – parks, pathway networks, ArcGIS Online - road networks, federal census income data, tree canopy coverage.  
 ## Methods  
-1. Clipped and merged parks and roads to each community  
-2. Used Network Analysis tool to measure walkability (800 m or a 10-minute walk) to green spaces  
-3. Compared results to median income data  
-4. Mapped tree canopy cover for each community  
+1. Merged and clipped road and park pathway networks to Calgary residential communities
+2. Conducted a Service Area Analaysis for a metric of 1250m (15-minute walk radius) from green spaces
+3. Compared Median Income and Tree Canopy coverage to Service Area polygons
+4. Selected individual communities to conduct a percentage of access to green spaces based on varying median income 
 ## Coordinate System  
-Mercator (World)  
+Mercator (World) Projection 
 ## Folders  
-- `data/` → geopackaged CSV files  
-- `visualization/` → maps or figures  
+- `data/` → Shapefiles
+- metadata/ --> Links to raster data, and open data  
+- `Layouts/` → maps or figures  
 ## License  
 This project is licensed under the **Creative Commons Attribution (CC BY 4.0)** license.  
 You are free to share and adapt the materials, as long as appropriate credit is given.  
