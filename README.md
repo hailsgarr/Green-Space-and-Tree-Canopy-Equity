@@ -7,7 +7,7 @@ The goal is to determine whether higher-income neighbourhoods have more equitabl
 City of Calgary Open Data Portal – parks, pathway networks, ArcGIS Online - road networks, federal census income data, tree canopy coverage.  
 ## Methods  
 1. Merged and clipped road and park pathway networks to Calgary residential communities
-2. Conducted a Service Area Analaysis for a metric of 1250m (15-minute walk radius) from green spaces
+2. Conducted a Service Area Analaysis for a metric of 1250m (15-minute walk) from green spaces
 3. Compared Median Income and Tree Canopy coverage to Service Area polygons
 4. Selected individual communities to conduct a percentage of access to green spaces based on varying median income 
 ## Coordinate System  
